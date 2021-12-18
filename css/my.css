@@ -1,0 +1,7 @@
+#sideNav {background-color: rgb(41, 0, 70) !important;}
+.text-primary {color: rgb(41, 0, 70) !important;}
+#about.resume-section {color: black!important;}
+.highlight{background-color: rgb(255, 255, 148); display:inline;}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+body {font-family: 'Noto Sans KR', sans-serif !important;} 
+.food {font-size: 24px;}
